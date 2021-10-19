@@ -1,2 +1,2 @@
 # PoseOutline
-An implementation of Pose Estimation using OpenCV and Neural Nets
+An implementation of Pose Estimation using OpenCV 
